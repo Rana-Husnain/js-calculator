@@ -1,0 +1,138 @@
+/* .main{
+   width: 500px;
+   height: 308px;
+   text-align: center;
+   border: 1px solid black;
+}
+button{
+    width: 55px;
+    height: 51px;
+    font-size: x-large;
+    margin-top: 15px;
+}
+input{
+    width: 269px;
+    height: 83px;
+    margin-top: 6px;
+    font-size: 37px;
+    background-color: #ef510d;
+    color: #584646;
+    font-family: fangsong;
+    font-weight: bolder;
+}
+.btn{
+    font-size: medium;
+    left: 139px;
+    position: relative;
+    width: 52px;
+    height: 37px;
+    background-color: brown;
+}
+.div4{
+    text-align: center;
+    position: relative;
+    left: -140px;
+} */
+
+
+
+
+
+
+.main{
+    width: 306px;
+    height: 401px;  
+      background-color: white;
+   margin: auto;
+
+
+
+   box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+
+
+
+   
+   margin-top: 79px;
+   border-radius: 6px;
+
+
+
+
+
+}
+input{
+    border-radius: 4px;
+    width:302px;
+    height: 82px;
+    background-color:  #FF0509;
+    color:#625656;
+    border: none;
+    font-size: 42px;
+    font-weight: bold;
+    font-family: cursive;
+}
+.red{
+
+    background-color:  #FF0509;
+    color: white;
+}
+button{
+    width: 71px;
+    height: 54px;
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: cursive;
+    border: none;
+    border-radius: 49px;
+    color: #786e6e;
+    background-color:  #ecedef;
+}
+
+button:hover{
+
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+
+
+    color: white;
+}
+
+
+
+.div2{
+    padding-top:19px;
+}
+
+
+footer{
+    
+    width: 100%;
+    height: 37px;
+    position: absolute;
+    bottom: 0;
+    background-color: #FF0509;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    font-size: 23px;
+    font-family: cursive;
+    font-weight: bolder;
+    
+    
+}
+#git{
+    color: #444242;
+
+}
+#fb{
+color: blue;
+}
+.icons{
+    font-size: 30px;
+
+}
+
+
+
+
+
+
